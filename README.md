@@ -2,8 +2,8 @@
 
 A responsive, accessible portfolio for Harshit Jain, Senior Software Engineer at
 Veer Textiles. The site presents his experience across mobile applications, web
-platforms, analytics, production operations, and DevOps, along with education and
-the open-source AnnotraQ project.
+platforms, analytics, production operations, and DevOps, along with education,
+the open-source AnnotraQ benchmark, and the MillPulse operations prototype.
 
 ## Live site
 
