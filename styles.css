@@ -814,6 +814,34 @@ img {
   line-height: 1.45;
 }
 
+.project-highlights {
+  display: grid;
+  gap: 12px;
+  max-width: 670px;
+  margin: 26px 0 0;
+  padding: 0;
+  color: rgba(255, 255, 255, 0.72);
+  list-style: none;
+}
+
+.project-highlights li {
+  position: relative;
+  padding-left: 24px;
+  line-height: 1.65;
+}
+
+.project-highlights li::before {
+  position: absolute;
+  top: 0.63em;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  background: var(--mint);
+  border-radius: 50%;
+  content: "";
+  box-shadow: 0 0 0 4px rgba(146, 241, 199, 0.1);
+}
+
 .text-link {
   display: inline-flex;
   gap: 9px;
